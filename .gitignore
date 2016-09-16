@@ -1,4 +1,3 @@
-django/env
-flask/env
+env
 
 .idea
